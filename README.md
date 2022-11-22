@@ -6,7 +6,7 @@
 ### <div align="center">I'm Uday Kiran Tentu, a student in [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_National_Institute_of_Technology_Nagpur)👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Automation Projects 
   
 
 - 🌱 I’m exploring on IoT devices  
