@@ -13,12 +13,12 @@
   <a href="https://linkedin.com/in/tentu-uday-kiran">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://instagram.com/tentu.udaykiran">
+<!--   <a href="https://instagram.com/tentu.udaykiran">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
   <a href="https://twitter.com/uktentu">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -79,7 +79,7 @@ hobbies: ["Coding", "Exploring New Technologies", "Gaming", "Music"]
 [![](https://visitcount.itsvg.in/api?id=uktentu&icon=3&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
- <div align="center" >[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uktentuo)</div>
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uktentuo)
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
