@@ -58,8 +58,8 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uktentu&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uktentu&layout=compact&hide_border=true" alt="Top Languages" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=uktentu&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uktentu&layout=compact&hide_border=true&theme=dark" alt="Top Languages" align="right">
 </div>
 
 ## 👀 Profile Views
@@ -67,3 +67,12 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uktentu&&style=flat-square" alt="Profile Views">
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.0/gsap.min.js"></script>
+<script>
+  gsap.to("img[src='https://rishavanand.github.io/static/images/greetings.gif']", {
+    duration: 1.5,
+    rotation: 360,
+    ease: "elastic"
+  });
+</script>
