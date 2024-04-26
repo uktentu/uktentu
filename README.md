@@ -15,7 +15,7 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
 ## ⚡ Skills
 
 ### Frontend
-<p align="center">
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;">
@@ -24,18 +24,18 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" style="margin: 10px;">
-</p>
+</div>
 
 ### Backend
-<p align="center">
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;">
-</p>
+</div>
 
 ### DevOps
-<p align="center">
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px;">
@@ -43,7 +43,7 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
   <img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" style="margin: 10px;">
-</p>
+</div>
 
 ## 🌐 Connect with Me
 
@@ -58,8 +58,8 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uktentu&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uktentu&layout=compact&hide_border=true&theme=dark" alt="Top Languages" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=uktentu&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uktentu&layout=compact&hide_border=true" alt="Top Languages" align="right">
 </div>
 
 ## 👀 Profile Views
@@ -67,12 +67,3 @@ I'm a passionate student at [VNIT](https://en.wikipedia.org/wiki/Visvesvaraya_Na
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uktentu&&style=flat-square" alt="Profile Views">
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.0/gsap.min.js"></script>
-<script>
-  gsap.to("img[src='https://rishavanand.github.io/static/images/greetings.gif']", {
-    duration: 1.5,
-    rotation: 360,
-    ease: "elastic"
-  });
-</script>
