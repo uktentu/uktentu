@@ -72,9 +72,9 @@ hobbies: ["Coding", "Exploring New Technologies", "Gaming", "Music"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-
+<!--
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
 
 [![](https://visitcount.itsvg.in/api?id=uktentu&icon=3&color=12)](https://visitcount.itsvg.in)
 
