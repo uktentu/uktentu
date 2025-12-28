@@ -79,8 +79,7 @@ hobbies: ["Coding", "Exploring New Technologies", "Gaming", "Music"]
 [![](https://visitcount.itsvg.in/api?id=uktentu&icon=3&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uktentuo)
-  
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/uktentu)  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
