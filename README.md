@@ -27,59 +27,93 @@
 
 ```yaml
 name: Uday Kiran Tentu
-located_in: [VNIT, Nagpur]
-current_job: [Student, Full Stack Developer]
+located_in: Pune, India
+current_role: Software Development Engineer @ Citi
 education:
   [
-    "Pursuing Bachelor's in Electronics and Communication",
-    "Self-taught Developer",
+    "B.Tech in Electronics and Communication - NIT Nagpur (VNIT)",
+    "CGPA: 8.59/10 | Dec 2020 - Jun 2024",
   ]
-company: [Student, Personal Projects]
 
 fields_of_interests:
   [
-    "Web Development",
-    "Automation Projects",
-    "IoT Devices",
+    "Distributed Systems & Microservices",
+    "AI/ML & LLMs",
+    "Developer Tools",
+    "Real-time Data Pipelines",
   ]
+
 technical_background:
   [
-    "Frontend Development",
-    "Backend Development",
-    "Python",
-    "C++",
-    "JavaScript",
+    "Backend Development (Spring Boot, FastAPI, Flask)",
+    "Frontend Development (React, TypeScript)",
+    "AI/ML (TensorFlow, PyTorch, LLMs)",
+    "Cloud & DevOps (AWS, Docker, Kafka)",
   ]
-  
-currently_learning: ["DevOps Tools", "Advanced Web Development"]
-2024 Goals: ["Complete 10+ Projects", "Contribute to Open Source"]
-hobbies: ["Coding", "Exploring New Technologies", "Gaming", "Music"]
+
+achievements:
+  [
+    "🥇 1st Place - Citi Innovation Hackathon (AI-Driven Scrum Assistant)",
+    "🏅 Finalist - Citi Blockchain Solutions Challenge",
+  ]
+
+currently_building: ["DevKit - Developer Utility Suite", "Entropy Code - YouTube Channel"]
+2025_goals: ["Launch Entropy Code", "Open Source Contributions", "DSA Mastery"]
+hobbies: ["Badminton 🏸", "Competitive Programming", "Interior Design", "Tech Hardware"]
 ```
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+---
+
+<h2> 🏆 &nbsp;Professional Highlights</h2>
+
+- 🔄 Modernized legacy monoliths into **scalable microservices** with active-active architectures
+- ⚡ Built **high-throughput data pipelines** using Kafka, Spring Boot & distributed systems
+- 📈 Achieved up to **60% faster response times** through architecture optimization
+- 🤖 Pioneered **AI-assisted development** practices to accelerate delivery
+
+---
+
+<h2> 🚀 &nbsp;Tech Stack</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
+
+---
+
+<h2> 📊 &nbsp;GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uktentu&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uktentu&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uktentu&theme=tokyonight&utcOffset=5.5" alt="Commits Time" />
+</p>
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=uktentu&icon=3&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/uktentu)  
+## 💰 You can help me by Donating
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/uktentu)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
